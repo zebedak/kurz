@@ -1,4 +1,4 @@
-tohle je mnou napsany text
+tohle bude mnou napsany text
 a tohle taky :)
 
 tohle je feature!
